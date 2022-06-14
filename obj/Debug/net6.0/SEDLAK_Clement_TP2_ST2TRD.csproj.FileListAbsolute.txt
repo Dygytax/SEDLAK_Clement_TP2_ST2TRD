@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\EFREI PARIS\M1\2ème Semestre\C#\TP2\SEDLAK_Clement_TP2_ST2TRD\bin\Debug\net6.0\SEDLAK_Clement_TP2_ST2TRD.exe
+C:\Users\User\Desktop\EFREI PARIS\M1\2ème Semestre\C#\TP2\SEDLAK_Clement_TP2_ST2TRD\bin\Debug\net6.0\SEDLAK_Clement_TP2_ST2TRD.deps.json
+C:\Users\User\Desktop\EFREI PARIS\M1\2ème Semestre\C#\TP2\SEDLAK_Clement_TP2_ST2TRD\bin\Debug\net6.0\SEDLAK_Clement_TP2_ST2TRD.runtimeconfig.json
+C:\Users\User\Desktop\EFREI PARIS\M1\2ème Semestre\C#\TP2\SEDLAK_Clement_TP2_ST2TRD\bin\Debug\net6.0\SEDLAK_Clement_TP2_ST2TRD.dll
+C:\Users\User\Desktop\EFREI PARIS\M1\2ème Semestre\C#\TP2\SEDLAK_Clement_TP2_ST2TRD\bin\Debug\net6.0\SEDLAK_Clement_TP2_ST2TRD.pdb
+C:\Users\User\Desktop\EFREI PARIS\M1\2ème Semestre\C#\TP2\SEDLAK_Clement_TP2_ST2TRD\obj\Debug\net6.0\SEDLAK_Clement_TP2_ST2TRD.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\EFREI PARIS\M1\2ème Semestre\C#\TP2\SEDLAK_Clement_TP2_ST2TRD\obj\Debug\net6.0\SEDLAK_Clement_TP2_ST2TRD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\EFREI PARIS\M1\2ème Semestre\C#\TP2\SEDLAK_Clement_TP2_ST2TRD\obj\Debug\net6.0\SEDLAK_Clement_TP2_ST2TRD.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\EFREI PARIS\M1\2ème Semestre\C#\TP2\SEDLAK_Clement_TP2_ST2TRD\obj\Debug\net6.0\SEDLAK_Clement_TP2_ST2TRD.AssemblyInfo.cs
+C:\Users\User\Desktop\EFREI PARIS\M1\2ème Semestre\C#\TP2\SEDLAK_Clement_TP2_ST2TRD\obj\Debug\net6.0\SEDLAK_Clement_TP2_ST2TRD.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\EFREI PARIS\M1\2ème Semestre\C#\TP2\SEDLAK_Clement_TP2_ST2TRD\obj\Debug\net6.0\SEDLAK_Clement_TP2_ST2TRD.dll
+C:\Users\User\Desktop\EFREI PARIS\M1\2ème Semestre\C#\TP2\SEDLAK_Clement_TP2_ST2TRD\obj\Debug\net6.0\refint\SEDLAK_Clement_TP2_ST2TRD.dll
+C:\Users\User\Desktop\EFREI PARIS\M1\2ème Semestre\C#\TP2\SEDLAK_Clement_TP2_ST2TRD\obj\Debug\net6.0\SEDLAK_Clement_TP2_ST2TRD.pdb
+C:\Users\User\Desktop\EFREI PARIS\M1\2ème Semestre\C#\TP2\SEDLAK_Clement_TP2_ST2TRD\obj\Debug\net6.0\SEDLAK_Clement_TP2_ST2TRD.genruntimeconfig.cache
+C:\Users\User\Desktop\EFREI PARIS\M1\2ème Semestre\C#\TP2\SEDLAK_Clement_TP2_ST2TRD\obj\Debug\net6.0\ref\SEDLAK_Clement_TP2_ST2TRD.dll
